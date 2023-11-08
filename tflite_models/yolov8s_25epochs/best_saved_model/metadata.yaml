@@ -1,0 +1,15 @@
+description: Ultralytics best model trained on /content/drive/MyDrive/object_counter_v3/datasets/data.yaml
+author: Ultralytics
+license: AGPL-3.0 https://ultralytics.com/license
+date: '2023-11-08T21:24:45.795354'
+version: 8.0.208
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 672
+- 672
+names:
+  0: aphid
+  1: fruit fly
+  2: scale_insect

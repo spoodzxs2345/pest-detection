@@ -1,0 +1,14 @@
+names:
+- aphid
+- fruit fly
+- scale_insect
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: pest-detection-and-counter
+  url: https://universe.roboflow.com/sample-n5l88/pest-detection-and-counter/dataset/1
+  version: 1
+  workspace: sample-n5l88
+test: ../test/images
+train: ../train/images
+val: ../valid/images
