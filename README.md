@@ -9,7 +9,7 @@ This model was developed for our thesis titled **"GroPro: Grow and Protect"**, w
 The model is based on the YOLOv8 Nano architecture, which is a lightweight version of the YOLOv8 object detection algorithm, which is suitable for Raspberry Pi 4. The model was trained on a dataset of images of various plant pests. The dataset was collected through web scraping of various plant pest images.
 
 ## Performance ⚙
-The model achieved a mean AP over different IoU thresholds, from 0.5 to 0.95, step 0.05 of 0.195 for all classes in validation. The following is a breakdown of the AP for each class:
+The model achieved a mean AP over different IoU thresholds, from 0.5 to 0.95, step 0.05 of 0.195 for all classes in validation. The following is a breakdown of the mAP for each class:
 
 - aphid: 0.0899
 - fruit fly: 0.292
