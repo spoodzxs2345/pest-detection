@@ -1,6 +1,6 @@
 # Plant Pest Detection Using YOLOv8 Nano 🦟
 > [!NOTE]
-> This is the third iteration of the model.
+> This is the second iteration of the model.
 
 ## Introduction
 This model was developed for our thesis titled **"GroPro: Grow and Protect"**, which focuses in detecting and eliminating plant pests in urban gardens through object and audio detection. It can be used to detect pests in real-time, videos, and images.
